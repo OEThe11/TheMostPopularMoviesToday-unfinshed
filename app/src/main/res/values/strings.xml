@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">The Most Popular Movies Today</string>
+    <string name="app_short_description">See The Latest, Most Popular Movies\n All IN ONE APP</string>
+    <string name="top_five_title">Top 5</string>
+    <string name="top_five_desc">The TOP FIVE rated movies OUT NOW</string>
+    <string name="direction_title">Start Here</string>
+    <string name="menu_directions">Slide to the option you are looking for and click on that picture</string>
+    <string name="blank_string"> </string>
+    <string name="genre_title_string">Genre</string>
+    <string name="community_string">Community</string>
+    <string name="browse_title">Browse</string>
+    <string name="movie_placeholder">Black Panther</string>
+    <string name="detail_desc"><u>Details on the Movie</u></string>
+    <string name="overview_title">Overview </string>
+    <string name="popularity_title">Popularity</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="genre_string">Action</string>
+    <string name="genre_desc">Genres that you Love</string>
+    <string name="type_hint">Type Here</string>
+    <string name="browse_desc">Browse All the movies Out NOW</string>
+    <string name="community_desc">Talk to others about your FAVS</string>
+    <string name="fourth_title">Chat</string>
+</resources>
